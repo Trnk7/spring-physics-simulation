@@ -1,7 +1,8 @@
 # Spring Simulation
 
 A small interactive spring-mass simulation built with plain HTML, CSS, and JavaScript. It renders a spring grid on a canvas, applies force-based physics, and lets you drag points to watch the system react in real time.
-
+## Live Demo
+[Click here](https://trnk7.github.io/spring-physics-simulation/)
 ## Features
 
 * Spring-mass physics with force accumulation on each point
